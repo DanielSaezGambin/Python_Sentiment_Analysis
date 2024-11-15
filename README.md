@@ -3,6 +3,8 @@
 
 This project aims to analyze the sentiments expressed in Netflix app reviews using advanced Natural Language Processing (NLP) tools such as NLTK, VADER, and TextBlob. An in-depth analysis of user reviews has been conducted to identify key emotions (positive, negative, and neutral) and gain valuable insights into users' experiences with the app.
 
+We use the dataset extracted from the following repository: https://www.kaggle.com/code/darrylljk/netflix-reviews-with-nlp/input.
+
 ## Objective
 To understand how Netflix users perceive the app, identifying not only positive and negative aspects but also the emotional intensity and subjectivity of their comments. This analysis provides valuable information that can be used to improve the user experience and guide product development decisions.
 
